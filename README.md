@@ -1,4 +1,5 @@
  بصيرة
+ 
 بصيرة بَصيرة [مفرد]: ج بَصائرُ وبِصَار:عقل وإدراك وفِطْنة ونظر نافِذ إلى خفايا الأشياء "ذو بَصيرة وبُعْد نظر"
 
 This project entails developing an AI-powered Picture Description Program to empower visually impaired individuals with enhanced access to visual content. 
